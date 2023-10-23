@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 ## 💻 Projeto
 
-O DevLinks é agregador de links para usar como cartão de visitas online.
+O DevLinks é agregador de links para usar como cartão de visitas online.. 
 
 ## 🔖 Layout
 
